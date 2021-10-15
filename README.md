@@ -90,7 +90,7 @@ organized by Hugging Face. We developped this model as part of the project:
 Our model is intented to be used as a sentence and short paragraph encoder. Given an input text, it ouptuts a vector which captures 
 the semantic information. The sentence vector may be used for information retrieval, clustering or sentence similarity tasks.
 
-By default, input text longer than 512 word pieces is truncated.
+By default, input text longer than 384 word pieces is truncated.
 
 
 ## Training procedure
