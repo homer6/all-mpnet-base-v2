@@ -6,6 +6,8 @@ tags:
 - sentence-similarity
 language: en
 license: apache-2.0
+datasets:
+- s2orc
 ---
 
 
