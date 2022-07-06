@@ -8,6 +8,7 @@ language: en
 license: apache-2.0
 datasets:
 - s2orc
+- flax-sentence-embeddings/stackexchange_xml
 ---
 
 
