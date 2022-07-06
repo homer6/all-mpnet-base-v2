@@ -9,6 +9,18 @@ license: apache-2.0
 datasets:
 - s2orc
 - flax-sentence-embeddings/stackexchange_xml
+- ms_marco
+- gooaq
+- yahoo_answers_topics
+- code_search_net
+- search_qa
+- eli5
+- snli
+- multi_nli
+- wikihow
+- natural_questions
+- trivia_qa
+
 ---
 
 
