@@ -25,6 +25,7 @@ datasets:
 - embedding-data/altlex
 - embedding-data/simple-wiki
 - embedding-data/QQP
+- embedding-data/SPECTER
 
 ---
 
