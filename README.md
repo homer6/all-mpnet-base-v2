@@ -26,6 +26,7 @@ datasets:
 - embedding-data/simple-wiki
 - embedding-data/QQP
 - embedding-data/SPECTER
+- embedding-data/PAQ_pairs
 
 ---
 
