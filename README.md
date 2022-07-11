@@ -27,6 +27,7 @@ datasets:
 - embedding-data/QQP
 - embedding-data/SPECTER
 - embedding-data/PAQ_pairs
+- embedding-data/WikiAnswers
 
 ---
 
